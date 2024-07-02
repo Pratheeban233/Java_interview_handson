@@ -1,0 +1,19 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ãïëáşÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†Óÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥îğÂùÿÿÿÿ
+q
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(‡øö®ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëÑøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¸Ñ¸Í
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÜ±
+_
+java:S1659"DDeclare "reverse" and all following declarations on a separate line.(Îöã™şÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(òö‚Á
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ã–Õıÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

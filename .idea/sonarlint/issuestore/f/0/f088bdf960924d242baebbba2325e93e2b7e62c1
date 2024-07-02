@@ -1,0 +1,21 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ä ûøÿÿÿÿ8Ù„Øú›1
+G
+java:S22015"*The return value of "toList" must be used.(õÞ²ü8¹ØÜú›1
+>
+java:S38644"!Remove this use of "Stream.peek".(ßˆ±ö8Ç¯Üú›1
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(ßˆ±ö8è„Øú›1
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(§ÈÓ‹8è„Øú›1
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(‹»¶Á8è„Øú›1
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(øæªœ8è„Øú›1
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(Øé‹·8è„Øú›1
+o
+java:S6204Y"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8è„Øú›1
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(¤žÓþÿÿÿÿ8è„Øú›1
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(É–÷š8è„Øú›1
+o
+java:S6204i"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8è„Øú›1
+U	java:S106j"9Replace this use of System.out or System.err by a logger.(Šý¾Ð8ø„Øú›1
+U	java:S106t"9Replace this use of System.out or System.err by a logger.(†é•¹8ø„Øú›1
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(öþÃÕüÿÿÿÿ8ôòÙú›1
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(ãú‰8×¯Üú›1

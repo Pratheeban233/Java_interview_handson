@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ÓŽÿ
+E
+java:S1197	"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ù£·êýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïÍØƒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÎ†úýÿÿÿÿ
+†
+java:S2159"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(±äÛ&
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿í‘ú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÎÇ™
